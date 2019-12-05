@@ -1,0 +1,11 @@
+# mac files
+.DS_Store
+
+# pycharm files
+.idea
+
+# certificate
+certificate.pem
+
+# virtual environment
+venv
